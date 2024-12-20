@@ -50,6 +50,7 @@ This repository contains an interactive Sales Dashboard built in Microsoft Excel
 # Project Structure
 - Excel-Sales-Dashboard.xlsx: The main Excel file containing the sales dashboard.
 - README.md: Detailed documentation for the project.
+- Project.PDF: a summary of the steps done on the data and recommendations.
 - /Images: Contains screenshots of the dashboard for documentation purposes.
 
 
